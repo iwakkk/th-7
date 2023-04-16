@@ -1,0 +1,11 @@
+C:\Users\edwar\source\repos\take home edwardsuwandi\bin\Debug\take home edwardsuwandi.exe.config
+C:\Users\edwar\source\repos\take home edwardsuwandi\bin\Debug\take home edwardsuwandi.exe
+C:\Users\edwar\source\repos\take home edwardsuwandi\bin\Debug\take home edwardsuwandi.pdb
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take_home_edwardsuwandi.Form1.resources
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take_home_edwardsuwandi.Properties.Resources.resources
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.exe
+C:\Users\edwar\source\repos\take home edwardsuwandi\obj\Debug\take home edwardsuwandi.pdb
